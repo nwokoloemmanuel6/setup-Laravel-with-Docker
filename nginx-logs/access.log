@@ -1,0 +1,7 @@
+185.246.220.98 - - [10/Feb/2023:21:17:21 +0000] "POST /boaform/admin/formLogin HTTP/1.1" 200 465 "http://207.154.238.170:80/admin/login.asp" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+185.246.220.98 - - [10/Feb/2023:21:17:21 +0000] "" 400 0 "-" "-"
+102.89.47.121 - - [10/Feb/2023:21:20:10 +0000] "GET / HTTP/1.1" 499 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.89.47.197 - - [10/Feb/2023:21:20:35 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.89.47.197 - - [10/Feb/2023:21:20:37 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://207.154.238.170/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.89.47.197 - - [10/Feb/2023:21:21:25 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+45.33.80.243 - - [10/Feb/2023:21:23:40 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
